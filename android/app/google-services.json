@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "989623831780",
+    "firebase_url": "https://test-cloud-messaging-a81ca.firebaseio.com",
+    "project_id": "test-cloud-messaging-a81ca",
+    "storage_bucket": "test-cloud-messaging-a81ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989623831780:android:ea8ff278931b9d22",
+        "android_client_info": {
+          "package_name": "com.example.tryflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989623831780-4an8ikm09bj7im5fho98tntuho97s6q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59PCdk5jNLliN_yemztl1rIcK31qAngQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
